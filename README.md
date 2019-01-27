@@ -1,0 +1,2 @@
+# DesignGuidelineTemplate
+サービス立ち上げで必要な推奨色や推奨フォント指定シートのテンプレート
